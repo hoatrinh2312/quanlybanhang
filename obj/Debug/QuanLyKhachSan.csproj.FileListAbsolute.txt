@@ -1,0 +1,8 @@
+C:\C#\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\C#\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csprojAssemblyReference.cache
+C:\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.FrmMain.resources
+C:\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\C#\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
